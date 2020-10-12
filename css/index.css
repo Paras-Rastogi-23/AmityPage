@@ -76,7 +76,7 @@
 }
 #aboutus
 {
-  background-color: #1195AF;
+  background-color: #2a4eb3;
   padding-bottom:20px;
 }
 #about-s
@@ -144,6 +144,15 @@
   background-color: black;
   width:60%;
   padding-bottom: 10px;
+}
+.vl {
+  margin-top: 10px;
+  border-left: 3px solid white;
+  height: 100px;
+}
+.hr-line{
+  color: #D9D009;
+  width: 2px;
 }
 #accepted-exame-size div h3
 {
@@ -271,6 +280,7 @@ text-align: justify;
     flex-direction: column;
     color: black;
 }
+
 #spotlight
 {
   width:95%;
@@ -309,4 +319,5 @@ text-align: justify;
 {
   max-width: 100%;
   height: auto;
+}
 }
